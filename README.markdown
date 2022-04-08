@@ -1,5 +1,3 @@
 # CSS Animation Trial
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/margo-kelley/pen/mdpEByr](https://codepen.io/margo-kelley/pen/mdpEByr).
-
-
+Learning CSS Animation via code along.
+A project by Amit Sheen and Kevin Powell. All credit goes to them.
